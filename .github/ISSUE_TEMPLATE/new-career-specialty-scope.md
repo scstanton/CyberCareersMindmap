@@ -3,7 +3,7 @@ name: New Career Specialty/Scope
 about: Use this template to add a new career specialty to the mind map.
 title: ''
 labels: ''
-assignees: ''
+assignees: scstanton
 
 ---
 
